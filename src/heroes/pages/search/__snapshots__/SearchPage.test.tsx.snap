@@ -1,0 +1,30 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SearchPage > should render the SearchPage component 1`] = `
+<div>
+  <div
+    data-testid="custom-jumbotron"
+  >
+    <h1>
+      Search Hero
+    </h1>
+    <p>
+      Discover, explore, and manage your favorite superheroes and villains
+    </p>
+  </div>
+  <div>
+    Loading...
+  </div>
+  <div
+    data-testid="search-controls"
+  >
+    SearchControls
+  </div>
+  <div
+    data-testid="hero-grid"
+  >
+    (
+    )
+  </div>
+</div>
+`;
